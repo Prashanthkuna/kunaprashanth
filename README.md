@@ -29,4 +29,4 @@
 
 ### ⚡ Fun Fact
 
-I enjoy automating repetitive tasks and continuously improving infrastructure performance and reliability.  
+I enjoy troubleshooting issues and continuously improving infrastructure performance and reliability. 
