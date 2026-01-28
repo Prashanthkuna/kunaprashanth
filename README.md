@@ -53,7 +53,6 @@ DevOps Engineer with **3 years of hands-on experience** in designing, automating
 ### 🗄️ Databases
 - PostgreSQL
 - Microsoft SQL Server
-- MongoDB
 
 ### 🌐 Web & Networking
 - NGINX
@@ -72,8 +71,8 @@ DevOps Engineer with **3 years of hands-on experience** in designing, automating
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(add your LinkedIn profile)*  
-- 📧 Email: *(optional)*  
+- 💼 LinkedIn: https://www.linkedin.com/in/prashanth-kuna-a946a1352/ 
+- 📧 Email: prashanthkuna1234@gmail.com
 
 ---
 
